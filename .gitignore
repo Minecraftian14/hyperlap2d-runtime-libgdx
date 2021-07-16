@@ -7,6 +7,6 @@ plugin-performance/build/
 plugin-tiled/build/
 plugin-skin-composer/build/
 /.gradle/
-/.idea/
+.idea/
 /build/
 /out/
